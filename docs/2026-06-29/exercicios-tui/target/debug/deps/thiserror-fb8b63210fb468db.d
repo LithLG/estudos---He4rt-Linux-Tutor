@@ -1,0 +1,14 @@
+/home/lith/estudos---He4rt-Linux-Tutor/docs/2026-06-29/exercicios-tui/target/debug/deps/thiserror-fb8b63210fb468db.d: /home/lith/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/lib.rs /home/lith/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/aserror.rs /home/lith/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/display.rs /home/lith/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/var.rs /home/lith/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/private.rs /home/lith/estudos---He4rt-Linux-Tutor/docs/2026-06-29/exercicios-tui/target/debug/build/thiserror-a49aee1d3a4d3903/out/private.rs
+
+/home/lith/estudos---He4rt-Linux-Tutor/docs/2026-06-29/exercicios-tui/target/debug/deps/libthiserror-fb8b63210fb468db.rlib: /home/lith/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/lib.rs /home/lith/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/aserror.rs /home/lith/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/display.rs /home/lith/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/var.rs /home/lith/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/private.rs /home/lith/estudos---He4rt-Linux-Tutor/docs/2026-06-29/exercicios-tui/target/debug/build/thiserror-a49aee1d3a4d3903/out/private.rs
+
+/home/lith/estudos---He4rt-Linux-Tutor/docs/2026-06-29/exercicios-tui/target/debug/deps/libthiserror-fb8b63210fb468db.rmeta: /home/lith/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/lib.rs /home/lith/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/aserror.rs /home/lith/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/display.rs /home/lith/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/var.rs /home/lith/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/private.rs /home/lith/estudos---He4rt-Linux-Tutor/docs/2026-06-29/exercicios-tui/target/debug/build/thiserror-a49aee1d3a4d3903/out/private.rs
+
+/home/lith/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/lib.rs:
+/home/lith/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/aserror.rs:
+/home/lith/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/display.rs:
+/home/lith/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/var.rs:
+/home/lith/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/private.rs:
+/home/lith/estudos---He4rt-Linux-Tutor/docs/2026-06-29/exercicios-tui/target/debug/build/thiserror-a49aee1d3a4d3903/out/private.rs:
+
+# env-dep:OUT_DIR=/home/lith/estudos---He4rt-Linux-Tutor/docs/2026-06-29/exercicios-tui/target/debug/build/thiserror-a49aee1d3a4d3903/out
